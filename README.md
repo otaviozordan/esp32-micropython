@@ -3,7 +3,7 @@
 <h3>
     Sobre Micropython
 </h3>
-<img aligment="center" src="img\Micropython-logo.svg" alt="Screen" width="400" height="400">
+<img src="img\Micropython-logo.svg" alt="Screen" width="400" height="400">
 <p>
 O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
 </p>
@@ -21,7 +21,7 @@ Você ira aprender:
 <div>
     <h2>Começando...</h2>
       <h3>Instalando os Drivers</h3>
-      <p>Antes de atualizarmos o firmware precisamos instalar o driver <a href="https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloadso">CP210x VCP</a>. *Obs: Se você já possui o driver  instalado pule essa etapa..</p>
+            Para que seu computador possa se comunicar com o ESP32 é necessário instalar os drivers, caso você já os possua siga para 
     <h3>Baixando os arquivos do Firmware</h3>
       <p>Para poder usar o <a href="https://github.com/espruino/Espruino">Espruino</a>, precisaremos atualizar nosso ESP32 com o firmware adequado. Os arquivos binários com o firmware podem ser obtidos <a href="http://www.espruino.com/Download">aqui</a>. após acessar o site faça o dowload do Espruino.</p>
       <img src="README\images\Espruino_screen.png" alt="Screen" width="1000" height="300">
