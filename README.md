@@ -3,7 +3,7 @@
 <h3>
     Sobre Micropython
 </h3>
-<img src="img\Micropython-logo.svg">
+<img src="img\Micropython-logo.svg" alt="Screen" width="900" height="200">
 <p>
 O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
 </p>
