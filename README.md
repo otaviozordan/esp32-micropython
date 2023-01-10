@@ -47,7 +47,7 @@ Após a instalação clique sobre o executavel e esperar abrir a pagina de insta
 <p >
     <br>
     <img src="img\Instalação Thonny.png" align='left'>
-    <img src="img\Finish Thonny.png" align='left'>
+    <img src="img\Finish Thonny.png" align='right'>
     <br>
 </p>
 <br>
