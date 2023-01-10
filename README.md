@@ -116,7 +116,28 @@ Agora o processo de regravação do Firmware foi iniciado, espere ser concluido 
     <img src="img\FinishFirmware.png" width="400" height="300">
     <br>
 </p>
+
 ## Usar o Prompt Micropython do ESP82 no Thonny
+Veja que foi reconhecido o ESP32 e já se abriu um prompt de comando. Caso isso não acontessa prescione <code>Ctrl + F2</code> ou prescione *Stop* para reiniciar a conexão.
+
+<p align='center'>
+    <br>
+    <img src="img\PromptThonny.png" width="550" height="450">
+    <br>
+</p>
+
+No Promp pode executar os comandos do Micropython, teste digitar:
+´´´
+print("Hello World!")
+´´´
+
+Veja o resultado:
+
+<p align='center'>
+    <br>
+    <img src="img\PrintTerminal.png" width="550" height="450">
+    <br>
+</p>
 
 ## Piscar um Led usando Micropython no ESP32
 
