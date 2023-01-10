@@ -191,7 +191,7 @@ Após escrever o código clique em <code>Run</code> ou prescione *F5*.
 
 <p align='center'>
     <br>
-    <img src="img\blink.mp4">
+    <gif src="img\blink.mp4">
 </p>
 
 Pronto! Você tem um Blik.
