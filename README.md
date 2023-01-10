@@ -122,7 +122,7 @@ Veja que foi reconhecido o ESP32 e já se abriu um prompt de comando. Caso isso 
 
 <p align='center'>
     <br>
-    <img src="img\PromptThonny.png" width="550" height="450">
+    <img src="img\PromptThonny.png" width="600" height="350">
     <br>
 </p>
 
@@ -135,7 +135,7 @@ Veja o resultado:
 
 <p align='center'>
     <br>
-    <img src="img\PrintTerminal.png" width="550" height="450">
+    <img src="img\PrintTerminal.png" width="600" height="350">
     <br>
 </p>
 
