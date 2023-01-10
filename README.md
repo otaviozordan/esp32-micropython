@@ -19,6 +19,7 @@
 <img src="img\Micropython-logo.svg" alt="Screen" width="300" height="300">
 <p>
     O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
+<br><br>
 </p>
 
 ## Instalar os drivers do ESP32.
@@ -26,19 +27,30 @@
         <p> Para que seu computador possa se comunicar com o ESP32 é necessário instalar os drivers, caso você já os possua siga para <a href="#Instalar-e-configurar-o-Thonny">Instalar e configurar o Thonny</a>.</p>
         <p> O conversor USB-Serial que permite seu computador conversar com o chip ESP32 através da USB. Dependendo da versão da placa, o chip responsável por essa conversão pode ser o CP210x (placas NodeMCU V2 e ESP32) ou o CH340G (placas NodeMCU V3). Este tutorial é destinado ao ESP32 portanto é para o CP210x que iremos instalar.</p>
         <li><a href="https://www.silabs.com/documents/public/software/CP210x_VCP_Windows.zip"> Driver ESP32 e NodeMCU V2 para Windows</a></li>
-        <p><br>Com o donwload concluido descompacte a pasta  e execute o instalador do seu SO.<br></p>
+        <p><br>Com o donwload concluido descompacte a pasta  e execute o instalador do seu SO.<br><br></p>
         <img src="img\Drivers.jpeg">
-        <br>
+        <br><br>
 </div>
 
 
 ## Instalar e configurar o Thonny 
 Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://thonny.org), se você usa um sistema Windows [clique aqui](https://github.com/thonny/thonny/releases/download/v4.0.1/thonny-4.0.1.exe) para fazer download do instalador.
-Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação.
-<br>
+
 <p align='center'>
+    <br>
     <img src="img\Thonny Download.png">
+    <br>
 </p>
+
+Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação. Prescione "next" até concluir.
+
+<p >
+    <br>
+    <img src="img\Instalação Thonny.png" align='left'>
+    <img src="img\Finish Thonny.png" align='left'>
+    <br>
+</p>
+<br>
 
 ## Como atualizar o ESP32 com o firmware mais recente do Micropython
 
