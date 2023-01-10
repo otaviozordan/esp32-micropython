@@ -57,12 +57,12 @@ Para instalaro firmware do Micropython no ESP32 precisamos da imagem mais rescen
 
 <p align='center'>
     <br>
-    <img src="img\Firmware.png">
+    <img src="img\Firmware.png" width="500" height="500">
     <br>
 </p>
 
 Com o Firmawe instalado vamos ao Thonny fazer sua gravação no ESP32. Conecte o ESP32 a porta USB do seu computador. Com o Thonny aberto clique em 
-<code> Executar --> COnfigurar Interpretador...</code>
+<code>Executar --> COnfigurar Interpretador...</code>
 
 <p align='center'>
     <br>
