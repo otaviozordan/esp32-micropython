@@ -128,9 +128,10 @@ Veja que foi reconhecido o ESP32 e já se abriu um prompt de comando. Caso isso 
 
 No Promp pode executar os comandos do Micropython, teste digitar:
 
-´´´´´python
+´´´python
+
 print("Hello World!")
-´´´´´
+´´´
 
 Veja o resultado:
 
