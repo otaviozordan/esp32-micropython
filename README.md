@@ -33,7 +33,7 @@ Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://
 Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação.
 <br>
 
-![Thonny Executavel](img\Drivers.jpeg)
+<img src="img\Micropython-logo.svg">
 
 ## Como atualizar o ESP32 com o firmware mais recente do Micropython
 
