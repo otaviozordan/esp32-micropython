@@ -157,7 +157,7 @@ led = Pin(2, Pin.OUT) #Configura a porta 2 como saida e cria o objeto led para e
     <br>
 </p>
 
-Este código define o pino 2 como saida e cria o objeto led, tente acionalo pelo comando:
+Este código define o pino 2 como saida e cria o objeto led. No ESP32 o pino 2 fica conectado a um led na própria placa, tente aciona-lo pelo comando:
 ```python
 led.value(1)
 ```
