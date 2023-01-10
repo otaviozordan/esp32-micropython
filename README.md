@@ -30,8 +30,10 @@ Você ira aprender:
         <p>Com o donwload concluido descompacte a pasta  e execute o instalador do seu SO.</p>
         <img src="img\Drivers.jpeg">
 </div>
+
+
+## Instalar e configurar o Thonny 
 <div>
-    <h3>Instalar e configurar o Thonny</h3>
       <p>Para programar e reinstalar o firmware no ESP32 utilizaremos o <a href="https://thonny.org/">Thonny</a>, se você usa um sistema Windows <a href="https://github.com/thonny/thonny/releases/download/v4.0.1/thonny-4.0.1.exe">clique aqui </a> para fazer download do instalador.</p>
       <p>Após a instalação S</p>
       <img src="README\images\Espruino_screen.png" alt="Screen" width="1000" height="300">
