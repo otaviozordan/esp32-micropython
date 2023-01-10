@@ -222,9 +222,11 @@ Salve e reconecte o ESP32 para ver sua execução.
 Este é o fim deste tutorial. O ESP32 já está rodando Micropython e agora você já sabe usar o ambiente para desenvolver seus projetos. As possibilidades com o MicroPython são enormes e você pode aproveitar tudo que seu ESP32 tem a oferecer. 
 Leia a [documentação do MicroPython](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html) para aprender como usar todas as funções.
 
-Esse tutorial foi desenvolvido por mim para o CEDEN na saudossima ETE FMC, onde estudo atualmente.
+Esse tutorial foi desenvolvido por mim para o [CEDEN](https://www.etefmc.com.br/ceden) na saudossima [ETE FMC](https://www.etefmc.com.br), onde estudo atualmente.
 <p align='center'>
-    <img src="img\CEDEN logo.png" width="370" height="90">
+    <a href="https://www.etefmc.com.br/ceden">
+        <img src="img\CEDEN logo.png" width="370" height="90">
+   </a>
 </p>
 
 <h2 align='center'>
