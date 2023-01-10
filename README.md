@@ -67,6 +67,7 @@ Com o Firmawe instalado vamos ao Thonny fazer sua gravação no ESP32. Conecte o
 <p align='center'>
     <br>
     <img src="img\Executar-Interpretador.png" width="650" height="550">
+    <br>
 </p>
 
 Abrirá a janela de <code>Opções do Thonny</code>. Selecione o tipo do interpretador que o Thonny usará para executar o código, procure a opção <code>MicroPython (ESP32)</code>.
@@ -74,7 +75,18 @@ Abrirá a janela de <code>Opções do Thonny</code>. Selecione o tipo do interpr
 <p align='center'>
     <br>
     <img src="img\Configurarcoes Intrpretador.png" width="650" height="550">
+    <br>
 </p>
+
+Agora observe se foi indentificado o ESP32 na porta COM, se o seu ESP não aparecer na loistagem como a baixo reinstale os drivers como [nesse trecho](#instalar-os-drivers-do-esp32).
+
+<p align='center'>
+    <br>
+    <img src="img\Porta.png" width="650" height="550">
+    <br>
+</p>
+
+Você pode selecionar a porta clicando sobre o seu Esp (no meu caso <code>Silicon Labs CP210x</code>) ou deixe a opção <code><\Tente detectar a porta automaticamnte></code>
 
 ## Usar o Prompt Micropython do ESP82 no Thonny
 
