@@ -1,6 +1,7 @@
-<a align="center”>
-<img src="img\Micropython-logo.svg" alt="Screen" width="300" height="300">
-</a>
+<p align='center'>
+    <img src="img\CEDEN logo.png">
+</p>
+
 # micropython-no-esp32
 
 ## Sobre Micropython
