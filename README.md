@@ -1,16 +1,12 @@
+# micropython-no-esp32
+
 <p align='center'>
     <img src="img\CEDEN logo.png">
 </p>
 
-# micropython-no-esp32
+## Você ira aprender:
 
-## Sobre Micropython
-<img src="img\Micropython-logo.svg" alt="Screen" width="300" height="300">
-<p>
-    O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
-</p>
-Você ira aprender:
-
+- [Sobre o Micropython](#sobre-micropython)
 - [Instalar os drivers do ESP32](#instalar-os-drivers-do-esp32)
 - [Instalar e configurar o Thonny](#instalar-e-configurar-o-thonny)
 - [Como atualizar o ESP32 com o firmware mais recente do Micropython](#como-atualizar-o-esp32-com-o-firmware-mais-recente-do-micropython)
@@ -19,7 +15,11 @@ Você ira aprender:
 - [Gravar um código autoexecutavel no ESP32](#gravar-um-código-autoexecutavel-no-esp32)
 - [Instalar uma biblioteca](#instalar-uma-biblioteca)
 
-<br>
+## Sobre Micropython
+<img src="img\Micropython-logo.svg" alt="Screen" width="300" height="300">
+<p>
+    O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
+</p>
 
 ## Instalar os drivers do ESP32.
 <div>
@@ -36,8 +36,9 @@ Você ira aprender:
 Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://thonny.org), se você usa um sistema Windows [clique aqui](https://github.com/thonny/thonny/releases/download/v4.0.1/thonny-4.0.1.exe) para fazer download do instalador.
 Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação.
 <br>
-
-<img src="img\Thonny Download.png">
+<p align='center'>
+    <img src="img\Thonny Download.png">
+</p>
 
 ## Como atualizar o ESP32 com o firmware mais recente do Micropython
 
