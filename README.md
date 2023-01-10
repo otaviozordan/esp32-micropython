@@ -16,7 +16,9 @@
 - [Instalar uma biblioteca](#instalar-uma-biblioteca)
 
 ## Sobre Micropython
-<img src="img\Micropython-logo.svg" alt="Screen" width="300" height="300">
+<p align='center'>
+    <img src="img\Micropython-logo.svg" alt="Screen" width="300" height="300">
+</p>
 <p>
     O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
 <br><br>
@@ -97,6 +99,23 @@ Agora clique em <code>Install or update MicroPython</code> e selecione o esp32. 
     <br>
 </p>
 
+Agora selecione o arquivo .bin que instalamos e clique em <code>Instalar</code>.
+
+<p align='center'>
+    <br>
+    <img src="img\FirmwareSelect.png" width="400" height="300">
+    <img src="img\FirmwareInstall.png" width="400" height="300">
+    <br>
+</p>
+
+Agora o processo de regravação do Firmware foi iniciado, espere ser concluido e clique em <code>Fechar</code>.
+
+<p align='center'>
+    <br>
+    <img src="img\UploadFirmware.png" width="400" height="300">
+    <img src="img\FinishFirmware.png" width="400" height="300">
+    <br>
+</p>
 ## Usar o Prompt Micropython do ESP82 no Thonny
 
 ## Piscar um Led usando Micropython no ESP32
