@@ -7,22 +7,23 @@
 </p>
 Você ira aprender:
 
-- [Instalar os drivers do ESP32.](#instalar-os-drivers-do-esp32)
+- [Instalar os drivers do ESP32](#instalar-os-drivers-do-esp32)
 - [Instalar e configurar o Thonny](#instalar-e-configurar-o-thonny)
-- [Como atualizar o ESP32 com o firmware mais recente do Micropython]
-    <li>Usar o Prompt Micropython do ESP82 no Thonny.</li>
-    <li>Piscar um Led usando Micropython no ESP32.</li>
-    <li>Gravar um código autoexecutavel no ESP32.</li>
-    <li>Instalar uma biblioteca.</li>
-
+- [Como atualizar o ESP32 com o firmware mais recente do Micropython](#como-atualizar)
+- [Usar o Prompt Micropython do ESP82 no Thonny](#usar-prompt-micropython)
+- [Piscar um Led usando Micropython no ESP32](#piscar-um-led-usando-micropython-no-esp32)
+- [Gravar um código autoexecutavel no ESP32](#gravar-um-código-autoexecutavel-no-esp32)
+- [Instalar uma biblioteca](#instalar-uma-biblioteca)
+<br>
 
 ## Instalar os drivers do ESP32.
 <div>
         <p> Para que seu computador possa se comunicar com o ESP32 é necessário instalar os drivers, caso você já os possua siga para <a href="#Instalar-e-configurar-o-Thonny">Instalar e configurar o Thonny</a>.</p>
         <p> O conversor USB-Serial que permite seu computador conversar com o chip ESP32 através da USB. Dependendo da versão da placa, o chip responsável por essa conversão pode ser o CP210x (placas NodeMCU V2 e ESP32) ou o CH340G (placas NodeMCU V3). Este tutorial é destinado ao ESP32 portanto é para o CP210x que iremos instalar.</p>
         <li><a href="https://www.silabs.com/documents/public/software/CP210x_VCP_Windows.zip"> Driver ESP32 e NodeMCU V2 para Windows</a></li>
-        <p>Com o donwload concluido descompacte a pasta  e execute o instalador do seu SO.</p>
+        <p><br>Com o donwload concluido descompacte a pasta  e execute o instalador do seu SO.<br></p>
         <img src="img\Drivers.jpeg">
+        <br>
 </div>
 
 
@@ -30,4 +31,12 @@ Você ira aprender:
 Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://thonny.org), se você usa um sistema Windows [clique aqui](https://github.com/thonny/thonny/releases/download/v4.0.1/thonny-4.0.1.exe) para fazer download do instalador.
 Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação.
 
-     
+## Como atualizar o ESP32 com o firmware mais recente do Micropython
+
+## Usar o Prompt Micropython do ESP82 no Thonny
+
+## Piscar um Led usando Micropython no ESP32
+
+## Gravar um código autoexecutavel no ESP32
+
+## Instalar uma biblioteca
