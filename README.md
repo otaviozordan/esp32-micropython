@@ -1,9 +1,5 @@
 # micropython-no-esp32
 
-<p align='center'>
-    <img src="img\CEDEN logo.png" width: 70%>
-</p>
-
 ## Você ira aprender:
 
 - [Sobre o Micropython](#sobre-micropython)
@@ -13,6 +9,10 @@
 - [Usar o Prompt Micropython do ESP82 no Thonny](#usar-o-prompt-micropython-do-esp82-no-thonny)
 - [Piscar um Led usando Micropython no ESP32](#piscar-um-led-usando-micropython-no-esp32)
 - [Gravar um código no ESP32](#gravar-um-código-no-esp32)
+
+<p align='center'>
+    <img src="img\CEDEN logo.png" width="370" height="90">
+</p>
 
 ## Sobre Micropython
 <p align='center'>
