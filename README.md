@@ -11,7 +11,9 @@
 - [Gravar um código no ESP32](#gravar-um-código-no-esp32)
 
 <p align='center'>
+  <a href="https://www.etefmc.com.br/ceden">
     <img src="img\CEDEN logo.png" width="370" height="90">
+  </a>
 </p>
 
 ## Sobre Micropython
