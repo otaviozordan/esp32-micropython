@@ -9,11 +9,12 @@ Você ira aprender:
 
 - [Instalar os drivers do ESP32](#instalar-os-drivers-do-esp32)
 - [Instalar e configurar o Thonny](#instalar-e-configurar-o-thonny)
-- [Como atualizar o ESP32 com o firmware mais recente do Micropython](#como-atualizar)
-- [Usar o Prompt Micropython do ESP82 no Thonny](#usar-prompt-micropython)
+- [Como atualizar o ESP32 com o firmware mais recente do Micropython](#como-atualizar-o-esp32-com-o-firmware-mais-recente-do-micropython)
+- [Usar o Prompt Micropython do ESP82 no Thonny](#usar-o-prompt-micropython-do-esp82-no-thonny)
 - [Piscar um Led usando Micropython no ESP32](#piscar-um-led-usando-micropython-no-esp32)
 - [Gravar um código autoexecutavel no ESP32](#gravar-um-código-autoexecutavel-no-esp32)
 - [Instalar uma biblioteca](#instalar-uma-biblioteca)
+
 <br>
 
 ## Instalar os drivers do ESP32.
