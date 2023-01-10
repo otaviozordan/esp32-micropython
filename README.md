@@ -71,6 +71,11 @@ Com o Firmawe instalado vamos ao Thonny fazer sua gravação no ESP32. Conecte o
 
 Abrirá a janela de <code>Opções do Thonny</code>. Selecione o tipo do interpretador que o Thonny usará para executar o código, procure a opção <code>MicroPython (ESP32)</code>.
 
+<p align='center'>
+    <br>
+    <img src="img\Configurarcoes Intrpretador.png" width="650" height="550">
+</p>
+
 ## Usar o Prompt Micropython do ESP82 no Thonny
 
 ## Piscar um Led usando Micropython no ESP32
