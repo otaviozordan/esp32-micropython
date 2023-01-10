@@ -116,6 +116,8 @@ Agora o processo de regravação do Firmware foi iniciado, espere ser concluido 
     <img src="img\FinishFirmware.png" width="400" height="300">
     <br>
 </p>
+<br>
+<br>
 
 ## Usar o Prompt Micropython do ESP82 no Thonny
 Veja que foi reconhecido o ESP32 e já se abriu um prompt de comando. Caso isso não acontessa prescione <code>Ctrl + F2</code> ou prescione *Stop* para reiniciar a conexão.
@@ -126,7 +128,8 @@ Veja que foi reconhecido o ESP32 e já se abriu um prompt de comando. Caso isso 
     <br>
 </p>
 
-No Promp pode executar os comandos do Micropython, teste digitar:
+
+No Promp pode executar os comandos do Micropython, teste digitar esse simples comando de Python que exibe uma mensagem:
 
 ```python
 print("Hello World!")
@@ -139,6 +142,29 @@ Veja o resultado:
     <img src="img\PrintTerminal.png">
     <br>
 </p>
+<br>
+<br>
+
+### Acendendo um led pelo terminal
+Tente agora acionar uma GPIO (porta digital) do ESP32 pelo terminal. Para isso cole no terminal o seguinte código comentado:
+```python
+from machine import Pin #Importamos da biblioteca Machine a função Pin que permite controlarmos os pinos do embarcado (ESP32).
+led = Pin(2, Pin.OUT) #Configura a porta 2 como saida e cria o objeto led para essa porta.
+```
+<p align='center'>
+    <br>
+    <img src="img\pinmode.png">
+    <br>
+</p>
+
+Este código define o pino 2 como saida e cria o objeto led, tente acionalo pelo comando:
+```python
+led.value(1)
+```
+E desligar usando o comando:
+```python
+led.value(0)
+```
 
 ## Piscar um Led usando Micropython no ESP32
 
