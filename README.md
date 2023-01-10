@@ -191,7 +191,7 @@ Após escrever o código clique em <code>Run</code> ou prescione *F5*.
 
 <p align='center'>
     <br>
-    <video src="img\blink.mp4">
+    <img src="img\blink.gif">
 </p>
 
 Pronto! Você tem um Blik.
@@ -199,6 +199,20 @@ Pronto! Você tem um Blik.
 
 ## Gravar um código autoexecutavel no ESP32
 Entretanto se você tirar o esp32 da alimentação e liga-lo novamente verá que ele não executará comando algum. Você deve salvar na memória do ESP o seu código como <code>main.py</code>.
+Clique em *Salvar* e selecione o *dispositivo MicroPython*.
 
+<p align='center'>
+    <br>
+    <img src="img\salvar.png" width="400" height="300">
+    <img src="img\Dispositivo.png" width="400" height="300">
+    <br>
+</p>
+
+Na guia que se abriu na aba *Nome do arquivo* digite <code>main.py</code>. Quando Firmware MicroPython for carregado no Esp ou seja, quando o ESP32 for alimentado, ele executará o arquivo de nome <code>main.py</code>.
+
+<p align='center'>
+    <br>
+    <img src="img\main.png">
+</p>
 
 ## Instalar uma biblioteca
