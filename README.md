@@ -1,7 +1,10 @@
 # micropython-no-esp32
 
 ## Sobre Micropython
-<img src="img\Micropython-logo.svg" alt="Screen" width="400" height="400">
+<centter>
+![Micropy](img\Micropython-logo.svg) 
+</centter>
+alt="Screen" width="400" height="400">
 <p>
     O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
 </p>
@@ -28,6 +31,6 @@ Você ira aprender:
 
 ## Instalar e configurar o Thonny 
 Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://thonny.org), se você usa um sistema Windows [clique aqui](https://github.com/thonny/thonny/releases/download/v4.0.1/thonny-4.0.1.exe) para fazer download do instalador.
-Após a instalação S
+Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação.
 
      
