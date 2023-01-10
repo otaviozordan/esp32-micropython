@@ -87,7 +87,7 @@ Agora observe se foi indentificado o ESP32 na porta COM, se o seu ESP não apare
     <br>
 </p>
 
-Você pode selecionar a porta clicando sobre o seu Esp (no meu caso <code>Silicon Labs CP210x</code>) ou deixe a opção <code><Tente detectar a porta automaticamnte></code>, assim quando você conectar o Esp ao computador ele tentará se conectar independente da porta.
+Você pode selecionar a porta clicando sobre o seu Esp (no meu caso <code>Silicon Labs CP210x</code>) ou deixe a opção <code>Tente detectar a porta automaticamente</code>, assim quando você conectar o Esp ao computador ele tentará se conectar independente da porta.
 
 Agora clique em <code>Install or update MicroPython</code> e selecione o esp32. Agora clique em <code>Browse</code> para procurar o Firmware que instalamos.
 
