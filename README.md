@@ -53,6 +53,15 @@ Após a instalação clique sobre o executavel e esperar abrir a pagina de insta
 </div>
 
 ## Como atualizar o ESP32 com o firmware mais recente do Micropython
+Para instalaro firmware do Micropython no ESP32 precisamos da imagem mais rescente do Firmware. Instale [nesse site](https://micropython.org/download/esp32/) descendo até Firmware e clicando sobre o mais rescente, no meu caso é a [v1.19.1 (2022-06-18)](https://micropython.org/resources/firmware/esp32-20220618-v1.19.1.bin).
+
+<p align='center'>
+    <br>
+    <img src="img\Firmware.png">
+    <br>
+</p>
+
+Com o Firmawe instalado vamos ao Thonny fazer sua gravação no ESP32.
 
 ## Usar o Prompt Micropython do ESP82 no Thonny
 
