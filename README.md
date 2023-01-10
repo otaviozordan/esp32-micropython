@@ -1,10 +1,7 @@
 # micropython-no-esp32
 
 ## Sobre Micropython
-<centter>
-![Micropy](img\Micropython-logo.svg) 
-</centter>
-alt="Screen" width="400" height="400">
+<img src="img\Micropython-logo.svg" alt="Screen" width="400" height="400">
 <p>
     O <a href="https://micropython.org/">Micropython</a> é uma implementação Open Source que permite utilizar  <a href="https://python.org/">Python</a> em microcontroladores. Essa é uma exelente solução para desenvolver códigos com familiaridade ao desktop  para seus embarcados
 </p>
