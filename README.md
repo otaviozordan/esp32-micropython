@@ -233,9 +233,9 @@ Esse tutorial foi desenvolvido por mim para o CEDEN na saudossima ETE FMC, onde 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-zordan-alves-b88160211/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  &nbsp;&nbsp;
   <a href="https://github.com/otaviozordan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>        
+  </a>  &nbsp;&nbsp;
 </p>
