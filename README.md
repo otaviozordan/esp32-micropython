@@ -44,7 +44,7 @@ Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://
 
 Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação. Prescione "next" até concluir.
 
-<div align='center'>
+<div>
     <br>
     <img src="img\Instalação Thonny.png" align='left' width="400" height="300">
     <img src="img\Finish Thonny.png" align='right' width="400" height="300">
