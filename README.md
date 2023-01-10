@@ -1,5 +1,6 @@
 # micropython-no-esp32
 
+<div>
 <h3>
     Sobre Micropython
 </h3>
@@ -18,10 +19,11 @@ Você ira aprender:
     <li>Gravar um código autoexecutavel no ESP32.</li>
     <li>Instalar uma biblioteca.</li>
 </ul>
+</div>
 
 
+## Instalar os drivers do ESP32.
 <div>
-    <h3>Instalar os drivers do ESP32.</h3>
         <p> Para que seu computador possa se comunicar com o ESP32 é necessário instalar os drivers, caso você já os possua siga para <a href="#Instalar-e-configurar-o-Thonny">Instalar e configurar o Thonny</a>.</p>
         <p> O conversor USB-Serial que permite seu computador conversar com o chip ESP32 através da USB. Dependendo da versão da placa, o chip responsável por essa conversão pode ser o CP210x (placas NodeMCU V2 e ESP32) ou o CH340G (placas NodeMCU V3). Este tutorial é destinado ao ESP32 portanto é para o CP210x que iremos instalar.</p>
         <li><a href="https://www.silabs.com/documents/public/software/CP210x_VCP_Windows.zip"> Driver ESP32 e NodeMCU V2 para Windows</a></li>
