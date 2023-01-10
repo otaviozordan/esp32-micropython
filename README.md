@@ -12,8 +12,7 @@
 - [Como atualizar o ESP32 com o firmware mais recente do Micropython](#como-atualizar-o-esp32-com-o-firmware-mais-recente-do-micropython)
 - [Usar o Prompt Micropython do ESP82 no Thonny](#usar-o-prompt-micropython-do-esp82-no-thonny)
 - [Piscar um Led usando Micropython no ESP32](#piscar-um-led-usando-micropython-no-esp32)
-- [Gravar um código autoexecutavel no ESP32](#gravar-um-código-autoexecutavel-no-esp32)
-- [Instalar uma biblioteca](#instalar-uma-biblioteca)
+- [Gravar um código no ESP32](#gravar-um-código-no-esp32)
 
 ## Sobre Micropython
 <p align='center'>
@@ -197,8 +196,8 @@ Após escrever o código clique em <code>Run</code> ou prescione *F5*.
 Pronto! Você tem um Blik.
 
 
-## Gravar um código autoexecutavel no ESP32
-Entretanto se você tirar o esp32 da alimentação e liga-lo novamente verá que ele não executará comando algum. Você deve salvar na memória do ESP o seu código como <code>main.py</code>.
+## Gravar um código no ESP32
+Entretanto se você tirar o esp32 da alimentação e liga-lo novamente verá que ele não executará comando algum. Você deve salvar na memória do ESP o seu código como <code>main.py</code>. 
 Clique em *Salvar* e selecione o *dispositivo MicroPython*.
 
 <p align='center'>
@@ -208,6 +207,8 @@ Clique em *Salvar* e selecione o *dispositivo MicroPython*.
     <br>
 </p>
 
+Outra ferramenta interessante é que você também pode abrir um código do seu computador ou do *dispositivo MicroPython*, diferente do Firmware do arquido que uma vez gravado se você não tiver uma cópio no seu computador é impossivel recuperar o código.
+
 Na guia que se abriu na aba *Nome do arquivo* digite <code>main.py</code>. Quando Firmware MicroPython for carregado no Esp ou seja, quando o ESP32 for alimentado, ele executará o arquivo de nome <code>main.py</code>.
 
 <p align='center'>
@@ -215,4 +216,8 @@ Na guia que se abriu na aba *Nome do arquivo* digite <code>main.py</code>. Quand
     <img src="img\main.png">
 </p>
 
-## Instalar uma biblioteca
+Salve e reconecte o ESP32 para ver sua execução.
+
+## Conclusão
+Este é o fim deste tutorial. O ESP32 já está rodando Micropython e agora você já sabe usar o ambiente para desenvolver seus projetos. As possibilidades com o MicroPython são enormes e você pode aproveitar tudo que seu ESP32 tem a oferecer. 
+Leia a [documentação do MicroPython](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html) para aprender como usar todas as funções.
