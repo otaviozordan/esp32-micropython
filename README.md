@@ -31,6 +31,9 @@ Você ira aprender:
 ## Instalar e configurar o Thonny 
 Para programar e reinstalar o firmware no ESP32 utilizaremos o [Thonny](https://thonny.org), se você usa um sistema Windows [clique aqui](https://github.com/thonny/thonny/releases/download/v4.0.1/thonny-4.0.1.exe) para fazer download do instalador.
 Após a instalação clique sobre o executavel e esperar abrir a pagina de instalação.
+<br>
+
+![Thonny Executavel](img\Drivers.jpeg)
 
 ## Como atualizar o ESP32 com o firmware mais recente do Micropython
 
