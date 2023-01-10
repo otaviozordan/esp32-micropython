@@ -66,7 +66,7 @@ Com o Firmawe instalado vamos ao Thonny fazer sua gravação no ESP32. Conecte o
 
 <p align='center'>
     <br>
-    <img src="img\Executar-Interpretador.png" width="650" height="550">
+    <img src="img\Executar-Interpretador.png" width="550" height="450">
     <br>
 </p>
 
@@ -74,19 +74,28 @@ Abrirá a janela de <code>Opções do Thonny</code>. Selecione o tipo do interpr
 
 <p align='center'>
     <br>
-    <img src="img\Configurarcoes Intrpretador.png" width="650" height="550">
+    <img src="img\Configurarcoes Intrpretador.png" width="550" height="450">
     <br>
 </p>
 
-Agora observe se foi indentificado o ESP32 na porta COM, se o seu ESP não aparecer na loistagem como a baixo reinstale os drivers como [nesse trecho](#instalar-os-drivers-do-esp32).
+Agora observe se foi indentificado o ESP32 na porta COM, se o seu ESP não aparecer na listagem como abaixo reinstale os drivers como [nesse trecho](#instalar-os-drivers-do-esp32).
 
 <p align='center'>
     <br>
-    <img src="img\Porta.png" width="650" height="550">
+    <img src="img\Porta.png" width="550" height="450">
     <br>
 </p>
 
-Você pode selecionar a porta clicando sobre o seu Esp (no meu caso <code>Silicon Labs CP210x</code>) ou deixe a opção <code><\Tente detectar a porta automaticamnte></code>
+Você pode selecionar a porta clicando sobre o seu Esp (no meu caso <code>Silicon Labs CP210x</code>) ou deixe a opção <code><Tente detectar a porta automaticamnte></code>, assim quando você conectar o Esp ao computador ele tentará se conectar independente da porta.
+
+Agora clique em <code>Install or update MicroPython</code> e selecione o esp32. Agora clique em <code>Browse</code> para procurar o Firmware que instalamos.
+
+<p align='center'>
+    <br>
+    <img src="img\FirmwarePort.png" width="400" height="300">
+    <img src="img\FirmwareBrowse.png" width="400" height="300">
+    <br>
+</p>
 
 ## Usar o Prompt Micropython do ESP82 no Thonny
 
