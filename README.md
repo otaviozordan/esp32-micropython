@@ -19,6 +19,7 @@ Você ira aprender:
     <li>Instalar uma biblioteca.</li>
 </ul>
 <div>
+##
     <h3>Instalar os drivers do ESP32.</h3>
         <p> Para que seu computador possa se comunicar com o ESP32 é necessário instalar os drivers, caso você já os possua siga para <a href="#Instalar-e-configurar-o-Thonny">Instalar e configurar o Thonny</a>.</p>
         <p> O conversor USB-Serial que permite seu computador conversar com o chip ESP32 através da USB. Dependendo da versão da placa, o chip responsável por essa conversão pode ser o CP210x (placas NodeMCU V2 e ESP32) ou o CH340G (placas NodeMCU V3). Este tutorial é destinado ao ESP32 portanto é para o CP210x que iremos instalar.</p>
