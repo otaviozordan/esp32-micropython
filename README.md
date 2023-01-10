@@ -1,7 +1,7 @@
 # micropython-no-esp32
 
 <p align='center'>
-    <img src="img\CEDEN logo.png">
+    <img src="img\CEDEN logo.png" width: 70%>
 </p>
 
 ## Você ira aprender:
@@ -221,3 +221,8 @@ Salve e reconecte o ESP32 para ver sua execução.
 ## Conclusão
 Este é o fim deste tutorial. O ESP32 já está rodando Micropython e agora você já sabe usar o ambiente para desenvolver seus projetos. As possibilidades com o MicroPython são enormes e você pode aproveitar tudo que seu ESP32 tem a oferecer. 
 Leia a [documentação do MicroPython](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html) para aprender como usar todas as funções.
+
+<p align='center'>
+    <br>
+    <img src="https://github.com/otaviozordan/otaviozordan/raw/main/KeepCalm.jpg">
+</p>
