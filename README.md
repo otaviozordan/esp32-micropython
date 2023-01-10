@@ -122,20 +122,21 @@ Veja que foi reconhecido o ESP32 e já se abriu um prompt de comando. Caso isso 
 
 <p align='center'>
     <br>
-    <img src="img\PromptThonny.png" width="600" height="350">
+    <img src="img\PromptThonny.png">
     <br>
 </p>
 
 No Promp pode executar os comandos do Micropython, teste digitar:
-´´´
+
+´´´´´python
 print("Hello World!")
-´´´
+´´´´´
 
 Veja o resultado:
 
 <p align='center'>
     <br>
-    <img src="img\PrintTerminal.png" width="600" height="350">
+    <img src="img\PrintTerminal.png">
     <br>
 </p>
 
