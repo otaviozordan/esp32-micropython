@@ -167,7 +167,38 @@ led.value(0)
 ```
 
 ## Piscar um Led usando Micropython no ESP32
+No editor de código vamos escrever um blink:
+```python
+import time #Importamos a biblioteca de tempo.
+from machine import Pin  #Importamos da biblioteca Machine a função Pin que permite controlarmos os pinos do embarcado (ESP32).
+
+led=Pin(2, Pin.OUT) #Configura a porta 2 como saida e cria o objeto led para essa porta.
+ 
+while True: #Cria um loop.
+    led.value(1)    #Define o pino 2 como alto.
+    time.sleep(1)   #Espera 1 seg.
+    led.value(0)    #Define o pino 2 como baixo.
+    time.sleep(1)   #Espera 1 seg.
+```
+
+<p align='center'>
+    <br>
+    <img src="img\Blink.png">
+    <br>
+</p>
+
+Após escrever o código clique em <code>Run</code> ou prescione *F5*.
+
+<p align='center'>
+    <br>
+    <img src="img\blink.mp4">
+</p>
+
+Pronto! Você tem um Blik.
+
 
 ## Gravar um código autoexecutavel no ESP32
+Entretanto se você tirar o esp32 da alimentação e liga-lo novamente verá que ele não executará comando algum. Você deve salvar na memória do ESP o seu código como <code>main.py</code>.
+
 
 ## Instalar uma biblioteca
